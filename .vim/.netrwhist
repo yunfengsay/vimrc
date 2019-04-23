@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/zhangyunfeng/code/js/tf/boxing_counter'
+let g:netrw_dirhist_2='/Users/zhangyunfeng/code/js/tf/boxing_counter/js'
+let g:netrw_dirhist_3='/Users/zhangyunfeng/code/js/tf/boxing_counter'
+let g:netrw_dirhist_4='/Users/zhangyunfeng/code/js/tf/boxing_counter/js'
+let g:netrw_dirhist_5='/Users/zhangyunfeng/job/faas/use_test/func'
+let g:netrw_dirhist_6='/Users/zhangyunfeng/job/faas/use_test/func/function'
+let g:netrw_dirhist_7='/Users/zhangyunfeng/job/faas/use_test/func/function/page-index'
+let g:netrw_dirhist_8='/Users/zhangyunfeng/job/faas/use_test/func/function/page-index/src'
+let g:netrw_dirhist_9='/Users/zhangyunfeng/job/faas/use_test/func'
