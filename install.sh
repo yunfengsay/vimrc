@@ -1,1 +1,1 @@
-cp -rf .vim .vimrc ~/
+cp --remove-destination  -rf .vim .vimrc ~/
